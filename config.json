@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "theme-style": "./custom.css",
-  "footer": "UEFART",
+  "footer": "@cecekpawon",
   "usage-stats": false
 }
